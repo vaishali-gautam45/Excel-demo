@@ -17,7 +17,7 @@ Hospital Emergency Room (ER) data to understand patient flow, wait times, and ad
 - Pivot Table and developed Data Visualization.
 # Dashboard
 <img width="1392" height="599" alt="Excel Dashboard" src="https://github.com/user-attachments/assets/110b74da-d177-4f20-9938-401bd3e150cb" />
-# Final Conclusion
+## Final Conclusion
 The Emergency Room dashboard gives a clear overview of patient visits and hospital performance. It shows how many patients visit the ER, how long they wait to see a doctor, and how many are admitted or discharged. The dashboard also highlights patient age, gender, and department referrals. By tracking the percentage of patients seen within 30 minutes, it helps identify delays and improve service quality. Overall, the dashboard supports better decision-making to improve patient care and reduce wait times.
 
 
