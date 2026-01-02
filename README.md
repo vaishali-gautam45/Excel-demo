@@ -15,7 +15,9 @@ Hospital Emergency Room (ER) data to understand patient flow, wait times, and ad
 - Power Query to extract and transform data.
 - Implemented Power Pivot and DAX.
 - Pivot Table and developed Data Visualization.
-  
+# Dashboard
+<img width="1392" height="599" alt="Excel Dashboard" src="https://github.com/user-attachments/assets/110b74da-d177-4f20-9938-401bd3e150cb" />
+
 
 
 
