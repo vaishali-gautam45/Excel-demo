@@ -10,6 +10,7 @@ Hospital Emergency Room (ER) data to understand patient flow, wait times, and ad
 - What is the gender-wise distribution of ER patients?
 - Which departments receive the highest number of referrals from the ER?
 - What percentage of patients are seen within the 30-minute target time?
+  -Dashboard Interaction <a href= " https://github.com/vaishali-gautam45/Excel-demo/blob/main/Excel%20Dashboard.png">View Dashboard</a
 
 
 
